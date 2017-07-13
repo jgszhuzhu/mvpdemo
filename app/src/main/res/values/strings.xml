@@ -13,4 +13,9 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+
+    <string name="short_cut">short cut</string>
+    <string name="long_cut">long cut</string>
+    <string name="disable_cut">disable cut</string>
+
 </resources>
